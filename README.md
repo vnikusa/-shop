@@ -2,6 +2,7 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +13,7 @@
 </head>
 <header>
     <img src="image 7.png" alt="" width="" height="" title="Хвостик Маркет">
-    <div>   <H2>Хвостик Маркет</H2>             <img src="image 1.png" alt="Віджет" width="1600" height="" title="Віджет">      </div>
+    <div>   <H2>Хвостик Маркет</H2>             <img src="image 1.png" alt="Віджет" width="1350px" height="" title="Віджет">      </div>
 </header>
 <body>
   <section class="categories">
@@ -24,10 +25,10 @@
   </section>
 <div>    </div>
 <section class="pokypku">
-  <div><img src="image 10.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Biokats Classic Fresh 3in1 наповнювач бентонітовий 10 л</p> <p>485.60 грн</p> </div> 
-  <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Savory Anti-Parasitic Soft Snacks ласощі для собак 200 г</p> <p>146.25 грн</p></div>
-  <div><img src="image 12.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Premio Stripes ласощі для собак 100 г</p> <p>142.40 грн</p></div>
-   <div> <img src="image 9.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ласощі для котів Half&Half Meaty Stick Adult 5 г - індичка</p> <p>12.00 грн</p> </div>
+  <div><img src="image 10.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Biokats Classic Fresh 3in1 наповнювач бентонітовий 10 л</p> <p>485.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Savory Anti-Parasitic Soft Snacks ласощі для собак 200 г</p> <p>146.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 12.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Premio Stripes ласощі з вітамінами для собак 100 г</p> <p>142.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 9.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ласощі для котів Half&Half Meaty Stick Adult 5 г - індичка</p> <p>12.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
 </section>
 
 <section class="perevagi">
@@ -39,10 +40,10 @@
 
 
 <section class="pokypku">
- <div> <img src="image 14.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">   <p>Клітка для гризунів Ferplast Multipla Hamster Crystal</p> <p>7 479.00 грн</p></div>
-     <div><img src="image 15.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Vitapol Karmeo Premium корм для папуг 900 г</p><p>496.00 грн</p> </div> 
-         <div><img src="image 16.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>GimCat Nutri Pockets ласощі для котів 60 г - яловичина</p><p>130.00 грн</p></div> 
-      <div><img src="image 17.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Харчова добавка для котів VetExpert NeuroSupport 45 шт</p> <p>1 259.00 грн</p> </div>
+ <div> <img src="image 14.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">   <p>Клітка для гризунів Ferplast Multipla Hamster Crystal</p> <p>7 479.00 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+     <div><img src="image 15.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Vitapol Karmeo Premium корм з вітамінами для папуг 900 г</p><p>496.00 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+         <div><img src="image 16.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>GimCat Nutri Pockets ласощі для котів 60 г - яловичина</p><p>130.00 грн</p><a href="https://example.com" class="button">Придбати</a></div> 
+      <div><img src="image 17.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Харчова добавка для котів VetExpert NeuroSupport 45 шт</p> <p>1 259.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
 
     </section>
 
@@ -62,5 +63,15 @@
 <img src="barpi-86018658476222 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
 <img src="52078021360013 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
 <img src="home-food-62241275192841 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+
+<div class="basket">
+  <img src="" alt="">
+  <span class="basket-count">0/00$</span>
+  <div class="shop-list">
+    <div class="close-btn">X</div>
+    <h3>кошик</h3>
+    <div class="shop-items"></div>
+</div>
 </footer>
 </html> 
