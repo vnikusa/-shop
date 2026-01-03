@@ -92,30 +92,25 @@
 </header>
 <body>
 <section class="pokypku">
-  <div><img src="lezhak-priroda-labyrinth-40-x-25-x-20-sm-raznotsvetnyy-69085456921046 1"  alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Природа Labyrinth лежак - сірий</p> <p>485.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
-  <div> <img src="lezhak-dubex-plushevyy-antialergennyy-simit-series-52-sm-h9-sm-goluboy-58859531433274 1" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежак Dubex плюшевий антиалергенний SIMIT SERIES</p> <p>146.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-  <div><img src="trixie-tipi-boho-budynochok-dlia-sobak-55kh65kh55-sm-bezhevyi-86925354566626 1 (1)" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Tipi Boho будиночок для собак / котів</p> <p>142.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-   <div> <img src="83511563214201 1"alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Лежак Trixie «Lian» d=37 (сірий) </p> <p>12.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="lezhak-priroda-labyrinth-40-x-25-x-20-sm-raznotsvetnyy-69085456921046 1"  alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Природа Labyrinth лежак - сірий</p> <p>467.00 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="lezhak-dubex-plushevyy-antialergennyy-simit-series-52-sm-h9-sm-goluboy-58859531433274 1" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежак Dubex плюшевий антиалергенний SIMIT SERIES</p> <p>1046.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="trixie-tipi-boho-budynochok-dlia-sobak-55kh65kh55-sm-bezhevyi-86925354566626 1 (1)" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Tipi Boho будиночок для собак / котів</p> <p>940.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="83511563214201 1"alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Лежак Trixie «Lian» d=37 (сірий) </p> <p>1200.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
 </section>
 <section class="pokypku 4">
-  <div><img src="image 10.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Biokats Classic Fresh 3in1 наповнювач бентонітовий 10 л</p> <p>485.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
-  <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Savory Anti-Parasitic Soft Snacks ласощі для собак 200 г</p> <p>146.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-  <div><img src="image 12.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Premio Stripes ласощі з вітамінами для собак 100 г</p> <p>142.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-   <div> <img src="image 9.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ласощі для котів Half&Half Meaty Stick Adult 5 г - індичка</p> <p>12.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 18.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Природа Ricky Лежак для собак / котів</p> <p>679.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 19.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежак для собак Cazo Premium M 73 см</p> <p>4460.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 20.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Noble Pet Albert Velvet лежак для собак</p> <p>3142.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 21.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Livia будиночок-лежак для собак / котів</p> <p>2218.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
 </section>
 
 <section class="pokypku 2">
-  <div><img src="image 10.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Biokats Classic Fresh 3in1 наповнювач бентонітовий 10 л</p> <p>485.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
-  <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Savory Anti-Parasitic Soft Snacks ласощі для собак 200 г</p> <p>146.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-  <div><img src="image 12.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Premio Stripes ласощі з вітамінами для собак 100 г</p> <p>142.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-   <div> <img src="image 9.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ласощі для котів Half&Half Meaty Stick Adult 5 г - індичка</p> <p>12.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 22.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Noble Pet London лежак для собак 80x60 см - синій</p> <p>2485.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежак круглый Noble Pet Paul Sand d-75 см</p> <p>2584.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="lezhak-dubex-plushevyy-antialergennyy-simit-series-52-sm-h9-sm-goluboy-58859531433274 1" " alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Pet Fun лежак для собак </p> <p>699.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 24.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Pet Fun лежак для котів 15х50х50 см - бежевий</p> <p>499.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
 </section>
-<section class="pokypku 3 ">
-  <div><img src="image 10.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Biokats Classic Fresh 3in1 наповнювач бентонітовий 10 л</p> <p>485.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
-  <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Savory Anti-Parasitic Soft Snacks ласощі для собак 200 г</p> <p>146.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-  <div><img src="image 12.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Premio Stripes ласощі з вітамінами для собак 100 г</p> <p>142.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-   <div> <img src="image 9.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ласощі для котів Half&Half Meaty Stick Adult 5 г - індичка</p> <p>12.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
-</section>
+
 
 
     
