@@ -345,4 +345,321 @@
 </footer>
 </html
     
+нове
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/slider.css">
+    <link rel="stylesheet" href="styles/categories.css">
+  </head>
+<header>
+    <div class="logo">
+        <img src="image 7.png" alt="" width="" height="" title="Хвостик Маркет">
+    </div>
+    <div class="search">
+        <input type="search" placeholder="Напишіть свій запит у поле пошуку ">
+    </div>
+
+    <div class="controls">
+        <img src="Shopping cart.png" alt="" width="" height="" title="Хвостик Маркет"> 
+        <img src="Heart.png" alt="" width="" height="" title="Хвостик Маркет"> 
+    </div>
+</header>
+
+
+<body>
+  <section>
+    <div class="slider">
+      <div class="track">
+        <div class="slide" style="background-image:url('https://picsum.photos/800/400?1')">
+          <h2>Slide One</h2>
+          <p>First slide content</p>
+        </div>
+    
+        <div class="slide" style="background-image:url('https://picsum.photos/800/400?2')">
+          <h2>Slide Two</h2>
+          <p>Second slide content</p>
+        </div>
+    
+        <div class="slide" style="background-image:url('https://picsum.photos/800/400?3')">
+          <h2>Slide Three</h2>
+          <p>Third slide content</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="categories">
+    <div class="category">
+      <a href="">
+        <img src="beds.jpg" alt="">
+        <h3>Лежанки для котів /собак </h3>
+      </a>
+    </div>
+    <div class="category">
+      <a href="">
+
+        <img src="drugs.jpg" alt="">
+        <h3>Ліки для тварин / товари для догляду</h3>
+      </a>
+      </div>
+    <div class="category">
+      <a href="">
+
+        <img src="cloth.jpg" alt="">
+        <h3>Одяг для тварин</h3>
+      </a>
+    </div>
+    <div class="category">
+      <a href="">
+        <img src="toys.jpg" alt="">
+        <h3>Іграшки для тварин</h3>
+      </a>
+    </div>
+  </section>
+
+<section class="pokypku">
+  <div><img src="lezhak-priroda-labyrinth-40-x-25-x-20-sm-raznotsvetnyy-69085456921046 1"  alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Природа Labyrinth лежак - сірий</p> <p>467.00 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="lezhak-dubex-plushevyy-antialergennyy-simit-series-52-sm-h9-sm-goluboy-58859531433274 1" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежак Dubex плюшевий антиалергенний SIMIT SERIES</p> <p>1046.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="trixie-tipi-boho-budynochok-dlia-sobak-55kh65kh55-sm-bezhevyi-86925354566626 1 (1)" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Tipi Boho будиночок для собак / котів</p> <p>940.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="83511563214201 1"alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Лежак Trixie «Lian» d=37 (сірий) </p> <p>1200.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+<section class="pokypku 4">
+  <div><img src="image 18.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Природа Ricky Лежак для собак / котів</p> <p>679.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 19.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежак для собак Cazo Premium M 73 см</p> <p>4460.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 20.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Noble Pet Albert Velvet лежак для собак</p> <p>3142.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 21.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Livia будиночок-лежак для собак / котів</p> <p>2218.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+
+<section class="pokypku 2">
+  <div><img src="image 22.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Noble Pet London лежак для собак 80x60 см - синій</p> <p>2485.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 23.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежак круглый Noble Pet Paul Sand d-75 см</p> <p>2584.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="lezhak-dubex-plushevyy-antialergennyy-simit-series-52-sm-h9-sm-goluboy-58859531433274 1" " alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Pet Fun лежак для собак </p> <p>699.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 24.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Pet Fun лежак для котів 15х50х50 см - бежевий</p> <p>499.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+
+
+
+  <script src="scripts/slider.js"></script>    
+</body>
+<footer>
+    <div>
+        <img src="image 7.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+  <section class="pokypku"><div><p>Приймаємо до сплати</p> <img src="14635664212583 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
+  <section class="pokypku"><div><p>Контактна інформація</p> <p>+380932273729</p> <p>Працюємо 24/7</p></div></section>
+    <section class="pokypku"><div><p>Потрібна допомога</p> <p>Скарга</p> <p>Залишити коментарі</p></div></section>
+      <section class="pokypku"> <div><img src="pngwing.com 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
+      
+<img src="myau-85109894289766 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+<img src="fidovet-78508927426252 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="savory-91401114179582 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="just-litter-72521997194066 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="barpi-86018658476222 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="52078021360013 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="home-food-62241275192841 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+
+<div class="basket">
+  <img src="" alt="">
+  <span class="basket-count">0/00$</span>
+  <div class="shop-list">
+    <div class="close-btn">X</div>
+    <h3>кошик</h3>
+    <div class="shop-items"></div>
+</div>
+</footer>
+</html>
+
+категорії
+
+.categories{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.category{
+    width: 300px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.category img{
+    width: 250px;
+    height: 250px;
+}
+
+header
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ECCEFD;
+    padding: 10px 75px;
+    height: 75px;
+}
+
+.search input{
+    background-color: #CC89FF;
+    width: 100%;
+    height: 50px;
+    border: none;
+}
+.search{
+    width: 40%;
+}
+
+.controls{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100px;
+    height: 20px;
+    padding: 20px 10px;
+}
+
+slider
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .slider {
+    width: 800px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 12px;
+    position: relative;
+  }
+  
+  .track {
+    display: flex;
+    height: 100%;
+    transition: transform 0.6s ease;
+  }
+  
+  .slide {
+    min-width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 40px;
+    color: white;
+  }
+  
+  .slide::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+  }
+  
+  .slide h2,
+  .slide p {
+    position: relative;
+    z-index: 1;
+  }
+
+
+
+
+
+
+
+  JS
+
+
+
+
+
+
+
+
+
+
+  const track = document.querySelector(".track");
+  const slides = document.querySelectorAll(".slide");
+  const slideWidth = slides[0].offsetWidth;
+
+  // clone first slide and append it to the end
+  const firstClone = slides[0].cloneNode(true);
+  track.appendChild(firstClone);
+
+  let index = 0;
+
+  function moveSlide() {
+    index++;
+    track.style.transition = "transform 0.6s ease";
+    track.style.transform = `translateX(-${slideWidth * index}px)`;
+  } 
+
+  track.addEventListener("transitionend", () => {
+    if (index === slides.length) {
+      track.style.transition = "none";
+      index = 0;
+      track.style.transform = "translateX(0)";
+    }
+  });
+  setInterval(moveSlide, 3000);
+
+
+
+
+
+
+  
+інше 
+
+
+
+
+let slideList = [
+    {
+      img : "https://images.unsplash.com/photo-1486428128344-5413e434ad35?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      text: 'Pyszne babeczki'
+    },
+     { 
+      img : "https://images.unsplash.com/photo-1517093157656-b9eccef91cb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+      text: 'Lody'
+     },
+    {
+      img : "https://images.unsplash.com/photo-1542310503-ff8da9c02372?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+       text: 'makaroniki'
+    }
+  ];
+  
+  
+  const image = document.querySelector('img.slider');
+  const h1 = document.querySelector('h1');
+  //interfejs 
+  const time = 3000;
+  let active= 0; // zaczynamy od 1 elementu
+  const changeSlide = () => {
+    active++;
+    // instrukcja warunkowa dla dlugosci tablicy 
+    if(active === slideList.length) {
+       active = 0 // zerujemy stan po ostatnim img.
+       };
+    image.src = slideList[active].img;
+    // przypisujemy obiekt element tablicy !  active = index 1, po kropce metoda
+    h1.textContent = slideList[active].text;
+  };
+  setInterval(changeSlide, time);
+  // implementacja 
+  
 
