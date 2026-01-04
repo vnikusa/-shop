@@ -175,7 +175,7 @@
 <section class="pokypku 2">
   <div><img src="image 44.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Elanco Bayer Advantage краплі на холку</p> <p>785.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
   <div> <img src="image 45.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Спрей Boehringer Ingelheim Frontline</p> <p>844.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
-  <div><img src="image 46.png " alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Харчова добавка для котів VetExpert KalmVet</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 46.png " alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Харчова добавка для котів VetExpert KalmVet</p> <p>179.00 грн</p><a href="https://example.com" class="button">Придбати</a></div>
    <div> <img src="image 47.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Таблетки для котів PROVET Моксістоп Міні</p> <p>179.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
 </section>
 
@@ -211,4 +211,138 @@
 </div>
 </footer>
 </html
+
+4
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/style.CSS">
+</head>
+<header>
+    <img src="image 7.png" alt="" width="" height="" title="Хвостик Маркет">
+    <div>   <H2>Хвостик Маркет</H2>             <img src="image 1.png" alt="Віджет" width="1350px" height="" title="Віджет">      </div>
+</header>
+<body>
+<section class="pokypku">
+  <div><img src="image 74.png"  alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Pet Fashion Oscar футболка для собак</p> <p>175.00 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 75.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Футболка для собак Pet Fashion «Yes»</p> <p>169.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 76.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Pet Fashion Kale борцівка для собак </p> <p>199.00 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 77.png"alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p> Светр для котів Pet Fun M - cts</p> <p>190.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+<section class="pokypku 4">
+  <div><img src="image 66.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Светр для собак Pet Fashion Rich S такса</p> <p>749.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 67.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Товстівка для котів Pet Fun</p> <p>580.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 68.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ковпак для собак Pet Fashion Новорічний S</p> <p>210.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 69.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Косинка світловідбиваюча для собак</p> <p>159.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+
+<section class="pokypku 2">
+  <div><img src="image 70.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Pet Fashion Tim TM светр для котів XS</p> <p>385.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 71.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Pet Fashion Oscar футболка для котів XXS</p> <p>144.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 72.png " alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Футболка для собак Pet Fashion «Yes»</p><p>379.00 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 73.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Товстівка для собак Pet Fashion</p> <p>189.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+
+
+
     
+</body>
+<footer>
+    <div>
+        <img src="image 7.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+  <section class="pokypku"><div><p>Приймаємо до сплати</p> <img src="14635664212583 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
+  <section class="pokypku"><div><p>Контактна інформація</p> <p>+380932273729</p> <p>Працюємо 24/7</p></div></section>
+    <section class="pokypku"><div><p>Потрібна допомога</p> <p>Скарга</p> <p>Залишити коментарі</p></div></section>
+      <section class="pokypku"> <div><img src="pngwing.com 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
+      
+<img src="myau-85109894289766 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+<img src="fidovet-78508927426252 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="savory-91401114179582 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="just-litter-72521997194066 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="barpi-86018658476222 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="52078021360013 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="home-food-62241275192841 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+
+<div class="basket">
+  <img src="" alt="">
+  <span class="basket-count">0/00$</span>
+  <div class="shop-list">
+    <div class="close-btn">X</div>
+    <h3>кошик</h3>
+    <div class="shop-items"></div>
+</div>
+</footer>
+</html
+ 5
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/style.CSS">
+</head>
+<header>
+    <img src="image 7.png" alt="" width="" height="" title="Хвостик Маркет">
+    <div>   <H2>Хвостик Маркет</H2>             <img src="image 1.png" alt="Віджет" width="1350px" height="" title="Віджет">      </div>
+</header>
+<body>
+<section class="pokypku">
+  <div><img src="image 79.png"  alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Pet Fun іграшка для котів пташка</p> <p>305.00 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 83.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Lapka М'яч іграшка для котів</p> <p>359.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 84.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Lapka Jumping Ball іграшка для котів </p> <p>399.00 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 87.png"alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie іграшка тунель для котів</p> <p>498.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+<section class="pokypku 4">
+  <div><img src="image 78.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Іграшка для собак Duvo+ Лось</p> <p>549.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 82.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Lapka Змійка іграшка для котів/p>  <p>798.00 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image 85.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Arch Swing іграшка для птахів</p> <p>230.40 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 86.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Playing Rope іграшка для собак</p> <p>59.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+
+<section class="pokypku 2">
+  <div><img src="image 80.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Trixie Playing Rope іграшка для собак</p> <p>85.60 грн</p><a href="https://example.com" class="button">Придбати</a> </div> 
+  <div> <img src="image 81.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Іграшка для птахів MasterZoo</p> <p>174.25 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+  <div><img src="image88.png " alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Іграшка для котів Trixie Трек ігровий</p><p>479.00 грн</p><a href="https://example.com" class="button">Придбати</a></div>
+   <div> <img src="image 89.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Іграшка для птахів Trixie Драбина мотузкова</p> <p>389.00 грн</p> <a href="https://example.com" class="button">Придбати</a></div>
+</section>
+
+
+
+    
+</body>
+<footer>
+    <div>
+        <img src="image 7.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+  <section class="pokypku"><div><p>Приймаємо до сплати</p> <img src="14635664212583 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
+  <section class="pokypku"><div><p>Контактна інформація</p> <p>+380932273729</p> <p>Працюємо 24/7</p></div></section>
+    <section class="pokypku"><div><p>Потрібна допомога</p> <p>Скарга</p> <p>Залишити коментарі</p></div></section>
+      <section class="pokypku"> <div><img src="pngwing.com 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
+      
+<img src="myau-85109894289766 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+<img src="fidovet-78508927426252 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="savory-91401114179582 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="just-litter-72521997194066 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="barpi-86018658476222 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="52078021360013 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+<img src="home-food-62241275192841 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+
+<div class="basket">
+  <img src="" alt="">
+  <span class="basket-count">0/00$</span>
+  <div class="shop-list">
+    <div class="close-btn">X</div>
+    <h3>кошик</h3>
+    <div class="shop-items"></div>
+</div>
+</footer>
+</html
+    
+
