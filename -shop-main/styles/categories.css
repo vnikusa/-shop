@@ -1,0 +1,11 @@
+.category{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    border: #33333333 solid 2px;
+    border-radius: 10px;
+}
+
+.categories{
+    margin: 30px 75px;
+}
