@@ -1,0 +1,20 @@
+header{
+    width: 100vw;
+    background-color: purple;
+    color: white;
+    padding: 20px 75px;
+}
+
+.nav-list li{
+    list-style: none;
+}
+
+.nav-list a{
+    color: inherit;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+
+.nav-list{
+    gap: 20px;
+}
