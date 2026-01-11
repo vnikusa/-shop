@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font: 1em sans-serif;
+}
+
+.flex-cntr-btw{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-cntr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
