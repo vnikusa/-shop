@@ -20,3 +20,8 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+
+footer{
+    background-color: rgb(165, 98, 228);
+}
