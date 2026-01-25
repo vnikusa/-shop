@@ -4,59 +4,231 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="CSS/style.CSS">
-</head>
-<header>
-    <img src="image 7.png" alt="" width="" height="" title="Хвостик Маркет">
-    <div>   <H2>Хвостик Маркет</H2>             <img src="image 1.png" alt="Віджет" width="1600" height="" title="Віджет">      </div>
-</header>
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/slider.css">
+    <link rel="stylesheet" href="styles/categories.css">
+    <link rel="stylesheet" href="styles/top.css">
+    <link rel="stylesheet" href="styles/advantages.css">
+    <link rel="stylesheet" href="styles/pokypku.css">
+    <link rel="stylesheet" href="nuz.css">"
+    <link rel="stylesheet" href="footer.css">"
+    <link rel="stylesheet" href="header.css">"
+    <link rel="stylesheet" href="header.js">"
+
+
+
+
+
+</headЮ
+
 <body>
-  <section class="categories">
+  <header class="flex-cntr-btw">
+    <div class="title flex-cntr">   
+      <img src="logo.png" alt="" width="" height="">
+        <h1>Хвостик Маркет</h1>             
+      </div>
+      <div class="search">
+        <input type="text" placeholder="пошук...">
+      </div>
+      <nav>
+        <ul class="nav-list flex-cntr-btw">
+          <li><a href="">Головна</a></li>
+          
+          <li><a href="">Про нас</a></li>
+        </ul>
+      </nav>
+      <button class="cart-btn" onclick="openCart()">🛒 Кошик (<span id="cartCount">0</span>)</button>
 
-    <div>  <img src="image 5.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Лежанки</p> </div>
-    <div><img src="image 6.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Іграшки</p></div>
-    <div><img src="image 4.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Одяг</p> </div> 
-    <div> <img src="image 3.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ліки</p></div>
-  </section>
-<div>    </div>
+<div class="cart-overlay" id="cartOverlay" onclick="closeCart()"></div>
+
+<div class="cart-popup" id="cartPopup">
+  <div class="cart-header">
+    <h2>Ваш кошик</h2>
+    <button onclick="closeCart()">✖</button>
+  </div>
+
+  <div class="cart-items" id="cartItems">
+    <!-- Товари тут -->
+  </div>
+
+  <div class="cart-footer">
+    <div class="cart-total">
+      Разом: <span id="cartTotal">0</span> ₴
+    </div>
+    <button class="checkout-btn">Оформити замовлення</button>
+  </div>
+</div>
+
+      <div class="contacts">
+        <p>+380123456789</p>
+      </div>
+      <div class="controls">
+          <div class="cart-btn">
+            <span>$0.00</span>
+          </div>
+      </div>
+  </header>
+  <main>
+    <section class="banner">
+
+      <div class="slider">
+        <div class="slider-track">
+          <div class="slide"><img src="banner1.webp" alt=""></div>
+          <div class="slide"><img src="banner2.webp" alt=""></div>
+          <div class="slide"><img src="banner3.webp" alt=""></div>
+        </div>
+        <div class="buttons">
+          <button id="prev">&#10094;</button>
+          <button id="next">&#10095;</button>
+        </div>
+      </div>
+      <div class="right">
+        <div class="top">
+          <img src="bannerA.webp" alt="">
+        </div>
+      </div>
+    </section>
+      
+      <section class="categories flex-cntr-btw">
+        <div class="category"><img src="beds category.png" <a href="2index.html"> 
+          <p class="category-title">Лежанки</p></a> 
+        </div>
+        <div class="category"><img src="clothing.png" <a href="3index.html">
+          <p class="category-title">Одяг</p></a> 
+        </div>
+        <div class="category"><img src="drugs category.png" <a href="4index.html">
+          <p class="category-title">Ліки</p></a> 
+        </div>
+        <div class="category"><img src="toys category.png" <a href="5index.html">
+          <p class="category-title">Іграшки</p></a> 
+        </div>
+      </section>
+      
+    <section class="top">
+      <h2>Топ товарів</h2>
+
+      <div class="slider">
+        <div class="slider-track">
+          <div class="slide">
+            <div class="product">
+              <img src="" alt="" class="product-img">
+              <p class="product-title"></p>
+              <p class="product-price"></p>
+              <button class="buy-btn">Придбати</button>
+            </div>
+          </div>
+          <div class="slide">
+            <div class="product">
+              <img src="" alt="" class="product-img">
+              <p class="product-title"></p>
+              <p class="product-price"></p>
+              <button class="buy-btn">Придбати</button>
+            </div>
+          </div>
+          <div class="slide">
+            <div class="product">
+              <img src="" alt="" class="product-img">
+              <p class="product-title"></p>
+              <p class="product-price"></p>
+              <button class="buy-btn">Придбати</button>
+            </div>
+          </div>
+          <div class="slide">
+            <div class="product">
+              <img src="" alt="" class="product-img">
+              <p class="product-title"></p>
+              <p class="product-price"></p>
+              <button class="buy-btn">Придбати</button>
+            </div>
+          </div>
+          <div class="slide">
+            <div class="product">
+              <img src="" alt="" class="product-img">
+              <p class="product-title"></p>
+              <p class="product-price"></p>
+              <button class="buy-btn">Придбати</button>
+            </div>
+          </div>
+        </div>
+        <div class="buttons">
+          <button id="prev">&#10094;</button>
+          <button id="next">&#10095;</button>
+        </div>
+      </div>
+    </section>
+    <section class="pokypku">
+      <div><img src="image 10.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Biokats Classic Fresh 3in1 наповнювач бентонітовий 10 л</p> <p>485.60 грн</p>  <button class="buy-btn">Придбати</button> </div> 
+      <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Savory Anti-Parasitic Soft Snacks ласощі для собак 200 г</p> <p>146.25 грн</p>  <button class="buy-btn">Придбати</button></div>
+      <div><img src="image 12.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Premio Stripes ласощі для собак 100 г</p> <p>142.40 грн</p>  <button class="buy-btn">Придбати</button></div>
+       <div> <img src="image 9.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ласощі для котів Half&Half Meaty Stick Adult 5 г - індичка</p>  <p>12.00 грн</p>  <button class="buy-btn">Придбати</button></div>
+    </section>
+    <section class="advantages">
+      <h2>Наші переваги</h2>
+      <div class="flex-cntr-btw">
+        <div class="advantage">
+          <img src="31597834817852 1 (1).png" alt="" class="advantage-img">
+          <h3 class="advantage-title"></h3>
+          <p class="">Турбота до пухнастиків</p>
+        </div>
+        <div class="advantage">
+          <img src="free-icon-parcel-1515640 1.png" alt="" class="advantage-img">
+          <h3 class=""></h3>
+          <p class="advantage-title">Приїжджає за 1-3 дні</p>
+        </div>
+        
+        <div class="advantage">
+          <img src="24017895718485 1 (1).png" alt="" class="advantage-img">
+          <h3 class="advantage-title"></h3>
+          <p class="">Найкращий сервіс</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="scripts/slider.js"></script>
+ 
+
 <section class="pokypku">
-  <div><img src="image 10.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Biokats Classic Fresh 3in1 наповнювач бентонітовий 10 л</p> <p>485.60 грн</p> </div> 
-  <div> <img src="image 11.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Savory Anti-Parasitic Soft Snacks ласощі для собак 200 г</p> <p>146.25 грн</p></div>
-  <div><img src="image 12.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Trixie Premio Stripes ласощі для собак 100 г</p> <p>142.40 грн</p></div>
-   <div> <img src="image 9.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"><p>Ласощі для котів Half&Half Meaty Stick Adult 5 г - індичка</p> <p>12.00 грн</p> </div>
-</section>
-
-<section class="perevagi">
- <h2>Наші переваги</h2>
- <div><img src="free-icon-parcel-1515640 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Приїжджає за 1-3 дні</p> </div>
- <div> <img src="31597834817852 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Турбота до пухнастиків</p></div>
- <div><img src="24017895718485 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Найкращий сервіс</p></div>
-</section>
-
-
-<section class="pokypku">
- <div> <img src="image 14.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">   <p>Клітка для гризунів Ferplast Multipla Hamster Crystal</p> <p>7 479.00 грн</p></div>
-     <div><img src="image 15.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Vitapol Karmeo Premium корм для папуг 900 г</p><p>496.00 грн</p> </div> 
-         <div><img src="image 16.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>GimCat Nutri Pockets ласощі для котів 60 г - яловичина</p><p>130.00 грн</p></div> 
-      <div><img src="image 17.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Харчова добавка для котів VetExpert NeuroSupport 45 шт</p> <p>1 259.00 грн</p> </div>
+ <div> <img src="image 14.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">   <p>Клітка для гризунів Ferplast Multipla Hamster Crystal</p> <p>7 479.00 грн</p> <button class="buy-btn">Придбати</button></div>
+     <div><img src="image 15.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Vitapol Karmeo Premium корм для папуг 900 г</p><p>496.00 грн</p> <button class="buy-btn">Придбати</button> </div> 
+         <div><img src="image 16.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>GimCat Nutri Pockets ласощі для котів 60 г - яловичина</p><p>130.00 грн</p> <button class="buy-btn">Придбати</button></div> 
+      <div><img src="image 17.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"> <p>Харчова добавка для котів VetExpert NeuroSupport 45 шт</p> <p>1 259.00 грн</p> <button class="buy-btn">Придбати</button> </div>
 
     </section>
 
-</body>
 
-<footer><div><img src="image 7.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
-  <section class="pokypku"><div><p>Приймаємо до сплати</p> <img src="14635664212583 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
-  <section class="pokypku"><div><p>Контактна інформація</p> <p>+380932273729</p> <p>Працюємо 24/7</p></div></section>
-    <section class="pokypku"><div><p>Потрібна допомога</p> <p>Скарга</p> <p>Залишити коментарі</p></div></section>
-      <section class="pokypku"> <div><img src="pngwing.com 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет"></div></section>
-      
-<img src="myau-85109894289766 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
 
-<img src="fidovet-78508927426252 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
-<img src="savory-91401114179582 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
-<img src="just-litter-72521997194066 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
-<img src="barpi-86018658476222 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
-<img src="52078021360013 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
-<img src="home-food-62241275192841 1.png" alt="Логотип компанії" width="" height="" title="Хвостик Маркет">
+
+<footer class="footer">
+  <div class="footer-container">
+    <div class="footer-brand">
+      <h2>Хвостик Маркет</h2>
+      <p>Якісні товари для ваших пухнастиків</p>
+    </div>
+    <div class="footer-links">
+      <h3>Меню</h3>
+      <ul>
+        <li><a href="#">Головна</a></li>
+        <li><a href="#">Каталог</a></li>
+        <li><a href="#">Про нас</a></li>
+        <li><a href="#">Контакти</a></li>
+      </ul>
+    </div>
+    <div class="footer-contact">
+      <h3>Контакти</h3>
+      <p>Email: info@hvostuk_market.com</p>
+      <p>Тел: +380 123 456 789</p>
+      <div class="social-icons">
+        <a href="#"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/facebook-new.png"/></a>
+        <a href="#"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png"/></a>
+        <a href="#"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/twitter.png"/></a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; 2026 AutoParts. Всі права захищені.</p>
+  </div>
 </footer>
+</body>
 </html> 
